@@ -1,0 +1,9 @@
+@FieldsAreNonnullByDefault
+@ParametersAreNonnullByDefault
+@MethodsReturnNonnullByDefault
+package io.github.morphismmc.legacymodding;
+
+import io.github.morphismmc.legacymodding.util.FieldsAreNonnullByDefault;
+import io.github.morphismmc.legacymodding.util.MethodsReturnNonnullByDefault;
+
+import javax.annotation.ParametersAreNonnullByDefault;
