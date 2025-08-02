@@ -1,7 +1,7 @@
 @FieldsAreNonnullByDefault
 @ParametersAreNonnullByDefault
 @MethodsReturnNonnullByDefault
-package io.github.morphismmc.legacymodding;
+package io.github.morphismmc.legacymodding.extension;
 
 import io.github.morphismmc.legacymodding.annotation.FieldsAreNonnullByDefault;
 import io.github.morphismmc.legacymodding.annotation.MethodsReturnNonnullByDefault;

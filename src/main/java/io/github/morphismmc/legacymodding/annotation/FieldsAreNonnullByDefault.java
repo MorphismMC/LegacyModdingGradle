@@ -1,4 +1,4 @@
-package io.github.morphismmc.legacymodding.util;
+package io.github.morphismmc.legacymodding.annotation;
 
 import javax.annotation.Nonnull;
 import javax.annotation.meta.TypeQualifierDefault;
